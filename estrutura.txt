@@ -1,0 +1,13 @@
+#CHECKLIST PARA GERAR ARTIGOS DE QUALIDADE
+- [  ] Título Chamativo: headline
+- [  ] Imagem de capa chamativa
+- [  ] Definir o assunto de blocos do artigo
+- [  ] Postar o artigo com um call to action
+
+## Assunto: 
+Github Desktop: Talvez, o seu o primeiro passo;
+
+## Título
+Ao entrar no mundo da programação você foi paralisado com a dificuldade de entender Git e Github? Comece com o Github Desktop!
+
+## Capa
