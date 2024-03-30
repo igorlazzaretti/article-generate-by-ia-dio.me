@@ -10,4 +10,68 @@ Github Desktop: Talvez, o seu o primeiro passo;
 ## Título
 Ao entrar no mundo da programação você foi paralisado com a dificuldade de entender Git e Github? Comece com o Github Desktop!
 
-## Capa
+## Capa e Banners
+Gerada a partir do Microsoft Copilot, Lexica Art e sendo editada no Canva.
+
+## Blocos
+
+> Crie um artigo que mostre as vantagens de utilizar o programa Github Desktop para um desenvolvedor iniciante em face das dificuldades das linhas de comando
+> Comporte-se como um escrito de artigos tech front-end e atenda as regras abaixo
+
+{REGRAS}
+> Comporte-se como um escrito de artigos tech front-end e atenda as regras abaixo
+> No mínimo 8 frases por bloco e no máximo 20 frases por blocos de explicação
+> Me explique de maneira informal, como se eu fosse jovem adulto de 22 anos.
+> Os blocos, com subtítulos para cada um, que serão criados estão abaixo: 
+- Introdução
+- Dificuldades ao se deparar com linhas de comando
+- Familiaridade com a interface
+- Rápida curva de Aprendizado
+- Simplificada Resolução de Conflitos
+- Curso em vídeo gratuito com o mestre Guanabara
+> crie 4 hastags para este artigo
+
+
+---
+
+O artigo final:
+
+**Introdução**
+
+E aí, galera do web! Se você está dando os primeiros passos no mundo do desenvolvimento e se deparou com o Git, sabe que as linhas de comando podem ser um verdadeiro desafio. Mas não entre em pânico! O GitHub Desktop está aqui para simplificar sua vida e tornar o controle de versão do seu código muito mais tranquilo e acessível. (Pelo menos por enquanto)
+
+**Dificuldades ao se deparar com linhas de comando**
+
+Quem nunca se sentiu perdido diante daquela tela preta com letras brancas, tentando lembrar de todos aqueles comandos do Git? É como aprender uma nova língua e, no começo, tudo parece grego. Tudo isso pode ser frustrante, e às vezes parece que estamos lidando com uma máquina do futuro.  Além disso, a possibilidade de cometer erros ao digitar os comandos corretos e a falta de feedback imediato podem aumentar a sensação de frustração e tornar a aprendizagem do Git uma experiência desafiadora para os novatos.
+
+**Familiaridade com a interface**
+
+Agora, imagine uma interface amigável e intuitiva que transforma todas essas linhas de comando assustadoras em botões coloridos e cliques simples. O GitHub Desktop é como uma bússola que aponta para o norte, guiando você através do mar de commits e branches do seu projeto. É como ter um mapa do tesouro que mostra exatamente onde estão suas mudanças e como você pode gerenciá-las facilmente.
+
+**Rápida curva de Aprendizado**
+
+Com o GitHub Desktop, a curva de aprendizado é suave como manteiga derretendo no pão quente. Você não precisa se preocupar em memorizar uma tonelada de comandos complexos. Em pouco tempo, você estará dominando o Git como um verdadeiro ninja, pronto para enfrentar qualquer desafio de controle de versão que surgir no seu caminho.
+
+**Simplificada Resolução de Conflitos**
+
+Sabe aquela sensação de pânico quando você precisa resolver conflitos em um merge e não tem ideia de por onde começar? Com o GitHub Desktop, isso se torna um problema do passado. Ele oferece uma maneira simplificada e visual de lidar com conflitos, permitindo que você resolva-os rapidamente e volte ao que realmente importa: seu código incrível.
+
+Concluo que
+
+Em conclusão, para aqueles que enfrentam dificuldades ao lidar com as linhas de comando do Git, a utilização do GitHub Desktop emerge como uma solução valiosa. Lançar mão de ferramentas é valioso, por exemplo o uso de ferramentas de Inteligência Artificial.  Este artigo foi gerado por IA, mas foi revisado por alguém 100% humano, e se quiser se conectar comigo, me siga no GitHub. 
+
+
+
+⚒️Ferrramentas de produção:
+
+Imagens geradas por: I.A. lexica.art e Microsoft Copilot
+
+Editor de imagem: Canva
+
+Conteúdo gerado por: ChatGPT 
+
+Revisões Humanas: Igor Lazzaretti
+
+
+
+#GitHubDesktop #ControleDeVersão #DesenvolvimentoWeb #AcrediteNosSeusSonhos
